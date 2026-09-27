@@ -1,0 +1,18 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.idea/
+.vscode/*
+!.vscode/settings.json
+*.swp
+*~
+
+# Office 临时文件
+~$*
+*.tmp
+
+# 日志
+*.log
